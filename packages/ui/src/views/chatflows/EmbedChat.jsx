@@ -169,8 +169,8 @@ export const defaultThemeConfig = {
         },
         footer: {
             textColor: '#303235',
-            text: 'Powered by',
-            company: 'Flowise',
+            text: '',
+            company: '',
             companyLink: 'https://flowiseai.com'
         }
     }
